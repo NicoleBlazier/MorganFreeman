@@ -1,0 +1,21 @@
+
+body {
+    padding-left: 20rem;
+    padding-right: 20rem;
+    
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link{
+    font-weight: bold;
+}
